@@ -1,2 +1,2 @@
 # Livecode Editor
-## A simple live code editor.
+## A simple live-code editor.
